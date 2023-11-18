@@ -1,0 +1,9 @@
+/* make a cart image size smaller so that everything just fits in it */
+/* code worked but now image is looking weird please make in a way that image should not be stretched  */
+.cartimg {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin: 10px;
+    }
